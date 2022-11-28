@@ -18,3 +18,7 @@
 
 ### пара-ра-ра-рам! Всё!!!
 
+## Копирую чужой репозиторий на локальный
+git clone `link`<br> `link` -> ссылка на репозиторий<br>
+    #git clone https://github.com/codedokode/pasta.git <br>
+
